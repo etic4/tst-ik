@@ -2,7 +2,7 @@ package main
 
 import (
 	rl "github.com/gen2brain/raylib-go/raylib"
-	vec "github.com/machinbrol/vecmaths"
+	vec "github.com/machinbrol/vecmath"
 )
 
 var (

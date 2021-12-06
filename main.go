@@ -5,7 +5,7 @@ package main
 import (
 	"math/rand"
 
-	vec "github.com/machinbrol/vecmaths"
+	vec "github.com/machinbrol/vecmath"
 )
 
 var (
