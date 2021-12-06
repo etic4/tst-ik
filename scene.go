@@ -1,6 +1,6 @@
 package main
 
-import vec "github.com/machinbrol/vecmath"
+import vec "github.com/etic4/vecmath"
 
 type mover interface {
 	move()

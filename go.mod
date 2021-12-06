@@ -1,8 +1,8 @@
-module github.com/machinbrol/tst-ik
+module github.com/etic4/tst-ik
 
 go 1.17
 
 require (
-	github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849 // indirect
-	github.com/machinbrol/vecmath v0.0.0-20211206152012-d1e23ba9444f
+	github.com/etic4/vecmath v0.0.0-20211206173620-166aba6b2b5d
+	github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849
 )

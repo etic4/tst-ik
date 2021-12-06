@@ -1,8 +1,8 @@
 package main
 
 import (
-	vec "github.com/machinbrol/vecmath"
-	"github.com/machinbrol/vecmath/maths"
+	vec "github.com/etic4/vecmath"
+	"github.com/etic4/vecmath/maths"
 )
 
 var (
